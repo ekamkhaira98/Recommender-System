@@ -1,4 +1,6 @@
 # Recommender-System
+![alt text](https://github.com/ekamkhaira98/Recommender-System/blob/main/Recommendation%20System.jpeg)
+
 The project has been divided into various tasks.
 The following are the major tasks:
 1. Dataset containing articles/documents containing variety of topics to help in making recommendations effective as it will consider cross topic documents in the corpus
